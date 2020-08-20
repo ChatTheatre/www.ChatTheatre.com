@@ -23,6 +23,7 @@ url: "https://www.ChatTheatre.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/ChatTheatre/www.ChatTheatre.com"
 email: "Support@ChatTheatre.com"
+copyright: Dyvers Hands Productions LLC Series 5 © 2020. All rights reserved.
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
