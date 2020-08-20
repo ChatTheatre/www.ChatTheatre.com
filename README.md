@@ -4,7 +4,7 @@ WORK IN PROGRESS Static website for www.ChatTheatre.com and the [github open sou
 
 ### The Gables
 
-Our demo server is [The Gables](https://gables.chattheatre.com).
+Our demo server is [The Gables](https://login.gables.chattheatre.com).
 
 
 ### Open Source
