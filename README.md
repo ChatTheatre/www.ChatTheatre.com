@@ -2,7 +2,9 @@ Everything you wanted to know about Chat Theatres and the open source community 
 
 ## The Gables
 
-Our demo server is [The Gables](https://login.gables.chattheatre.com) and is functional, but a WORK IN PROGRESS.
+![](https://login.gables.chattheatre.com/assets/gables-small.jpg)
+
+Our demo server is [The Gables](https://gables.chattheatre.com) and is functional, but a WORK IN PROGRESS. 
 
 ## Open Source
 
