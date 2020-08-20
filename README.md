@@ -1,14 +1,14 @@
-Everything you wanted to know about Chat Theatres and the open source community behind it.
+*Everything you wanted to know about Chat Theatres and the open source community behind them.*
 
 # Chat Theatre
 
-A Chat Theatre is a chat, discussion, and storytelling/roleplaying environment that leverages old-style mud/mush commands and text-dominant virtual documents, but with all the advantages of a modern HTML5 web interface, including clickable links, visual maps, popup windows, etc. It is based on SkotOS, a 4th-generation text game engine that has been in use for online games for over 20 years.
+A Chat Theatre is a online chat, discussion, and storytelling/roleplaying environment that leverages old-style mud/mush commands and text-dominant virtual objects, but with all the advantages of a modern HTML5 web interface, including clickable links, visual maps, popup windows, etc. It is based on SkotOS, a 4th-generation text game engine that has been in use for online games for over 20 years.
 
 ## The Gables
 
 ![](https://login.gables.chattheatre.com/assets/gables-small.jpg)
 
-Our demo server is [The Gables](https://gables.chattheatre.com) and is functional, but a WORK IN PROGRESS. 
+You are welcome to create test accounts on our demo server at [The Gables](https://gables.chattheatre.com). This minimal Chat Theatre is functional, but a WORK IN PROGRESS. 
 
 ## Open Source
 
