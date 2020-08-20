@@ -1,5 +1,9 @@
 Everything you wanted to know about Chat Theatres and the open source community behind it.
 
+# Chat Theatre
+
+A Chat Theatre is a chat, discussion, and storytelling/roleplaying environment that leverages old-style mud/mush commands and text-dominant virtual documents, but with all the advantages of a modern HTML5 web interface, including clickable links, visual maps, popup windows, etc. It is based on SkotOS, a 4th-generation text game engine that has been in use for online games for over 20 years.
+
 ## The Gables
 
 ![](https://login.gables.chattheatre.com/assets/gables-small.jpg)
