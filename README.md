@@ -8,7 +8,7 @@ A Chat Theatre is a online chat, discussion, and storytelling/roleplaying enviro
 
 ![](https://login.gables.chattheatre.com/assets/gables-small.jpg)
 
-You are welcome to create test accounts on our demo server at [The Gables](https://gables.chattheatre.com). This minimal Chat Theatre is functional, but a WORK IN PROGRESS. 
+You are welcome to create test accounts on our demo server at [The Gables](https://login.gables.chattheatre.com). This minimal Chat Theatre is functional, but a WORK IN PROGRESS. 
 
 ## Open Source
 
